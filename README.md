@@ -9,4 +9,5 @@ To use it, fork the repo, make changes to the text and deploy it to any server :
 Check all dependences, so, make 
 
 npm install
+
 npm fix --force
